@@ -1,1 +1,6 @@
-<?php echo phpinfo(); ?>
+<?php 
+
+     
+    echo "Josean Sonríe";
+
+?>
